@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 24px;
+    background-color: rgb(48, 42, 42);
+}
+.card {
+    background-color: rgb(130, 229, 238);
+    max-width: 420px;
+    padding: 18px;
+    border: 1px solid #e605ff;
+    border-radius: 12px;
+}
+
+input{
+    border-radius: 15px;
+    border: none;
+    width: 95%;
+    padding: 10px;
+    margin-top: 8px;
+}
+
+button {
+    border-radius: 15px;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    box-shadow: 2px 2px 0px rgb(219, 38, 226);
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #ddd;
+}
+
+.saida {
+    margin-top: 12px;
+    font-weight: 600;
+}
