@@ -5,10 +5,10 @@ body {
     color: #000000;
 }
 .card {
-    background-color: rgb(130, 229, 238);
+    background-color: rgb(24, 255, 78);
     max-width: 420px;
     padding: 18px;
-    border: 1px solid #e605ff;
+    border: 5px solid #ffffff;
     border-radius: 12px;
 }
 
