@@ -4,6 +4,8 @@ const n3 = document.getElementById("n3");
 const btn = document.getElementById("btn");
 const saida = document.getElementById("saida");
 
+window.alert("Bem vindo")
+
 function lerNumero(input) {
     const v = Number(input.value);
     if (!input.value || Number.isNaN(v)) return null;
