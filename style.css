@@ -1,7 +1,8 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     padding: 24px;
-    background-color: rgb(48, 42, 42);
+    background-color: rgb(17, 255, 0);
+    color: #e605ff;
 }
 .card {
     background-color: rgb(130, 229, 238);
